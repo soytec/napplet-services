@@ -4,7 +4,7 @@ Hosted services for [napplet.soy](https://napplet.soy), maintained by [Soytec](h
 
 **Status: repository bootstrap.** The proposed architecture is under maintainer review. Runtime code has not been extracted or deployed from this repository yet.
 
-Review [the architecture PR](https://github.com/soytec/.github/pull/1) or read the [organization architecture proposal](https://github.com/soytec/.github/blob/codex/services-architecture/ARCHITECTURE.md) for the boundaries, deployment strategy and migration gates.
+Review [the architecture PR](https://github.com/soytec/.github/pull/1) or read the [organization architecture proposal](https://github.com/soytec/.github/blob/7eccb15a5f2e7cf256e7bc9603703b8abfe0d2a0/ARCHITECTURE.md) for the boundaries, deployment strategy and migration gates.
 
 ## Proposed scope
 
